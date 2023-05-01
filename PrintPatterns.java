@@ -3,8 +3,7 @@ package Patterns;
 public class PrintPatterns {
     public static void main(String[] args) {
 
-//        pattern5(5);
-        pattern(120);
+        pattern(5);
     }
     static void pattern(int n){
         for(int row=1; row<=2*n; row++){
